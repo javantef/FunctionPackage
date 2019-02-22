@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550862499002.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D8875CBA",
+    "lastKnownWriteTime" : 1550858349,
+    "last_content_update" : 1550858349,
+    "path" : "C:/Users/Karen/Desktop/FunctionPackage/man/hello.Rd",
+    "project_path" : "man/hello.Rd",
+    "properties" : {
+        "cursorPosition" : "7,22",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
